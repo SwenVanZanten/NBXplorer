@@ -45,6 +45,7 @@ It currently supports the following altcoins:
 * Qtum
 * Terracoin
 * Ufo
+* Verge Currency
 * Viacoin
 
 Read our [API Specification](docs/API.md), or our the [internal design of NBXplorer](docs/Design.md).

@@ -91,6 +91,10 @@ namespace NBXplorer.Tests
 			//CryptoCode = "MUE";
 			//nodeDownloadData = NodeDownloadData.MonetaryUnit.v2_1_6;
 			//Network = NBitcoin.Altcoins.MonetaryUnit.Instance.Regtest;
+			
+			//CryptoCode = "XVG";
+			//nodeDownloadData = NodeDownloadData.Verge.v6_0_2;
+			//Network = NBitcoin.Altcoins.Verge.Instance.Regtest;
 
 			//CryptoCode = "LBTC";
 			//nodeDownloadData = NodeDownloadData.Elements.v0_18_1_1;

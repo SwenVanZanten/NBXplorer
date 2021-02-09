@@ -22,6 +22,7 @@ namespace NBXplorer
 			InitMonacoin(networkType);
 			InitFeathercoin(networkType);
 			InitUfo(networkType);
+			InitVerge(networkType);
 			InitViacoin(networkType);
 			InitMonoeci(networkType);
 			InitGobyte(networkType);
